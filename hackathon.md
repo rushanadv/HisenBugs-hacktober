@@ -7,7 +7,7 @@ This repository is a part of the Hackathon organized for HisenBugs.
 - `main`: Main branch - stable releases
 - `md`: Development branch - contains new features and experiments
 
-## Hackathon.md
+## hackathon.md
 This file documents the hackathon project and its progress.
 
 ## Features
